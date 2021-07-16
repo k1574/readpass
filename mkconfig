@@ -1,0 +1,6 @@
+<$MKINCDIR/config
+PROGNAME = readpass
+INCS = -I$INCDIR
+CFILES = main.c
+AFILES = $OBJDIR/aes.a
+

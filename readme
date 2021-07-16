@@ -1,0 +1,4 @@
+# readpass
+
+Read string not showing any characters and output it to 3 file descriptor.
+
